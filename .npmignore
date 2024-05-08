@@ -1,0 +1,4 @@
+src
+rollup.config.js
+.vscode
+test-package-1.0.0*.tgz
